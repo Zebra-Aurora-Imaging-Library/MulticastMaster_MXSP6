@@ -1,4 +1,4 @@
-# Simple3dStitching_MXSP4
+# MulticastMaster_MXSP6
 
 Date: 04/05/2024
 
@@ -13,3 +13,4 @@ The project structure, including the xml, aims to be copied in "\Users\Public\Do
 
 **Link**  
 https://github.com/Zebra-Aurora-Imaging-Library/MulticastMaster_MXSP6
+
